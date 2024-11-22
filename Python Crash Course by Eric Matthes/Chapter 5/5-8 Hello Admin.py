@@ -1,0 +1,1 @@
+usernames = ['loserGM', 'winnerGM', 'hotpockets', 'horader', 'pickleNickle']
