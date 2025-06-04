@@ -1,0 +1,1 @@
+I learned to code with different data structs and types and for loops and if statements in python
