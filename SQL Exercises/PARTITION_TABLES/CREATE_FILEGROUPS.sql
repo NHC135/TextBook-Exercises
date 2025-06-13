@@ -5,7 +5,7 @@ ALTER DATABASE SalesDB ADD FILEGROUP FG_2024;
 ALTER DATABASE SalesDB ADD FILEGROUP FG_2025;
 ALTER DATABASE SalesDB ADD FILEGROUP FG_2026;
 
-
+--check the lists of the filegroups
 SELECT *
 FROM sys.filegroups 
 WHERE type = 'FG'
